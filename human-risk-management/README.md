@@ -38,4 +38,3 @@ Microsoft Defender for Office 365 (Attack Simulation Training) · Microsoft Grap
 - Moved the program from pure compliance tracking toward a measurable, segmented risk-management model with a defined score and escalation path.
 - Currently use organizational AI tools (e.g. Claude) to accelerate sifting through raw monthly data and drafting reports that capture the relevant human risk metrics — cutting the time spent on manual synthesis before it reaches leadership.
 
-> *Note: specific metrics (e.g. % reduction in processing time, phishing report-rate trend, headcount) were intentionally left as placeholders above — swap in real, non-sensitive figures if you want to strengthen this write-up.*
